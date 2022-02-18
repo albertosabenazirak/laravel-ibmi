@@ -12,6 +12,12 @@
         "ToolkitAPI"
     ],
     "license": "MIT",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/albertosabenazirak/ibmitoolkit"
+        }
+    ],
     "authors": [
         {
         "name": "Maxime Rault",
@@ -20,7 +26,7 @@
     ],
     "require": {
         "php": "^7.3|^8.0",
-        "zendtech/IbmiToolkit": "dev-master",
+        "zendtech/ibmitoolkit": "dev-master",
         "cooperl/laravel-db2": "dev-master"
     },
     "require-dev": {
