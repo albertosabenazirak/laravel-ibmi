@@ -20,6 +20,7 @@
     ],
     "require": {
         "php": "^8.0",
+        "zendtech/ibmitoolkit": "dev-master",
         "cooperl/laravel-db2": "^10"
     },
     "require-dev": {
